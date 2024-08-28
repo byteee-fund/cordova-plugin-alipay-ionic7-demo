@@ -1,0 +1,7 @@
+{
+  "name": "cordova-plugin-alipay-ionic7-demo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
